@@ -1,4 +1,4 @@
-echo "ls / -a -l -h > study/Hello_world_Tyurina_EE/projects_3/task_3-4_1_2" > study/Hello_world_Tyurina_EE/projects_3/task_3-4_1_2
+ls / -a -l -h 
 
 total 3.9G
 drwxr-xr-x  23 root root 4.0K Feb  7 16:40 .

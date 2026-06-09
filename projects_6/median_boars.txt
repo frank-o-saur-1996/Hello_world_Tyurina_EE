@@ -1,0 +1,8 @@
+median age is 4.70 years
+median weight is 65.85 kg
+median length is 150.10 cm
+median shoulder height is 80.40 cm
+median tusk length is 9.50 cm
+median litter size is 5.00
+median health score is 75.00
+median territory is 4.10 ha

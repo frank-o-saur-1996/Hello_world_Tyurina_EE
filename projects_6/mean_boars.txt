@@ -1,0 +1,8 @@
+average age is 4.66 years
+average weight is 69.74 kg
+average length is 149.76 cm
+average shoulder height is 79.60 cm
+average tusk length is 10.25 cm
+average litter size is 3.91
+average health score is 75.15
+average territory is 4.24 ha

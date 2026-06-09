@@ -1,0 +1,7 @@
+Q1_male (25%): 128.7 cm
+Q3_male (75%): 163.4 cm
+IQR_male: 34.7 cm
+
+Q1_female (25%): 133.9 cm
+Q3_female (75%): 170.2 cm
+IQR_female: 36.4 cm
